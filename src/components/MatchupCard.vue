@@ -34,7 +34,7 @@ import { NCard, NButton, NDropdown } from 'naive-ui';
 import teams from '../scripts/teams';
 import Axios from '../axios/index';
 
-const imageURI = 'https://vuepractice.blob.core.windows.net/logos/';
+const imageURI = 'https://nhllogos.blob.core.windows.net/nhl-logos/';
 export default defineComponent({
   name: 'Matchup Card',
   components: {
