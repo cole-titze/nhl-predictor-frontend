@@ -1,4 +1,4 @@
-# build-a-bot
+# nhl match selector
 
 ## Project setup
 ```
